@@ -16,7 +16,7 @@ This project is a simple **Pascal Interpreter** written in Python. It allows you
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/pascal-interpreter.git
+    git clone https://github.com/AliDiiv/Pascal-interpreter.git
     ```
 
 2. Navigate into the project directory:
